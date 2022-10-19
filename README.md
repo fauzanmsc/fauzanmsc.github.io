@@ -3,4 +3,4 @@
 # Ozan Creative
 Personal Web Portfolio
 
-Preview Link : https://fauzanmsc.github.io/portfolio/
+Preview Link : https://fauzanmsc.github.io
